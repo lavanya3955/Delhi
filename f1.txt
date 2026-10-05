@@ -19,8 +19,17 @@
 
     <p>Welcome to Git Branching Tutorial.</p>
 
-   <p>Welcome to Git Branching Tutorial1.</p>
+   <p>Welcome to Git Branching Tutorial4.</p>
  <p>Welcome to Git Branching Tutorial2.</p>
+
+   <p>Welcome to Git Branching Tutorial3.</p>
+ <p>Welcome to Git Branching Tutorial2.</p>
+<button onclick="showMessage()">Click Me</button>
+
+    <script src="script.js"></script>
+
+</body>
+
 <button onclick="showMessage()">Click Me</button>
 
     <script src="script.js"></script>
